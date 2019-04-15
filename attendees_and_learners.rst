@@ -30,6 +30,7 @@ PyCon Ireland in Dublin, 26th October 2015
 * Art Knipe https://github.com/artkgithub
 * Miao Li https://github.com/masonmiaoli
 * Sarah Jackson
+* Stavre Stoljaco
 * Stefano Fedele https://github.com/stefanofedele/afraid-to-commit
 * Barry Kennedy https://github.com/bazkennedy
 
